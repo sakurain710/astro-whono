@@ -1,14 +1,14 @@
 {
-  "title": "Astro Themes by Whono",
+  "title": "Sakurain's Blog",
   "description": "一个极简双栏 Astro 主题的展示站",
   "defaultLocale": "zh-CN",
   "footer": {
-    "startYear": 2025,
+    "startYear": 2026,
     "showCurrentYear": true,
-    "copyright": "Whono · Theme Demo · by cxro"
+    "copyright": "Blog · Whono · by sakurain"
   },
   "adminOverview": {
-    "publicVisible": true,
+    "publicVisible": false,
     "hiddenMessage": "作者暂未公开此页面。"
   },
   "favicon": {
@@ -17,13 +17,13 @@
     "appleTouchIcon": null
   },
   "socialLinks": {
-    "github": "https://github.com/cxro/astro-whono",
-    "x": "https://twitter.com/yourname",
-    "email": "Astro@Whono.me",
+    "github": "https://github.com/sakurain710",
+    "x": null,
+    "email": "Sakurain2026@163.com",
     "presetOrder": {
       "github": 1,
-      "x": 2,
-      "email": 3
+      "x": 3,
+      "email": 2
     },
     "custom": []
   }
